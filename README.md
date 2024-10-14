@@ -4,7 +4,7 @@
 ## Eng
 You need to write a program in Python that performs the following tasks:
 
-1. Count the source data from the text file «source_data.txt». Let the text file be relative. It is recommended to place the text file in the same folder as the *.py program code file
+1. Read the source data from the text file «source_data.txt». Let the text file be relative. It is recommended to place the text file in the same folder as the *.py program code file
 2. Calculate the value obtained by dividing the ID number into the number of characters that make up the FDC (the number of characters is counted without taking into account the spaces).
 3. Determine the direction of sorting according to the number obtained in s.2:
 - sorting by ascending, if the resulting number in p.2 is even;
